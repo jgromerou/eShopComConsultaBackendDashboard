@@ -1,0 +1,23 @@
+export const types = {
+  auth: {
+    login: '[AUTH] - LOGIN',
+    error: '[AUTH] - ERROR',
+    logout: '[AUTH] - LOGOUT',
+    //registerUser: '[AUTH] - REGISTERUSER'
+  },
+  // users: {
+  //     getListUsers: '[USERS] - LISTUSERS',
+  //     getUser: '[USERS] - GETUSER',
+  //     createUser: '[USERS] - CREATEUSER',
+  //     editUser: '[USERS] - EDITUSER',
+  //     deleteUser: '[USERS] - DELETEUSER',
+  //     changePassword: '[USERS] - CHANGEPASSWORD'
+  // },
+  // products: {
+  //     listProducts: '[PRODUCTS] - LISTPRODUCTS',
+  //     addProduct: '[PRODUCTS] - ADDPRODUCT',
+  //     editProduct: '[PRODUCTS] - EDITPRODUCT',
+  //     deleteProduct: '[PRODUCTS] - DELETEPRODUCT',
+  //     getCategories: '[PRODUCTS] - GETCATEGORIES'
+  // }
+};
